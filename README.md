@@ -32,6 +32,11 @@ Dataset: E-commerce transactional data
 
 📸 Dashboard Preview
 
+## 📸 Dashboard Preview
+![Dashboard Preview](<img width="1205" height="669" alt="Screenshot 2025-09-15 191248" src="https://github.com/user-attachments/assets/65c83456-6bc0-45cc-9fd7-1ecfd1cdd8e8" />
+)
+
+
 📌 How to Use
 
 Clone the repository:
